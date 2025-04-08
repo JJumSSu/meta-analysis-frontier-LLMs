@@ -1,0 +1,8 @@
+Check if the provided Table LaTeX includes numerical experimental results for the target model, specifically considering its versions across different time periods (e.g., Claude3 Opus, Claude3 Opus-0828, Claude3 Opus-0623). 
+Tables should be regarded as containing results for the target model if they include these versions. However, if the table only includes variant models (e.g., Claude3 Sonnet, Claude3 Haiku, Claude2, Claude 3.5), consider the table as not containing results for the target model.
+Respond with 'true' if the table contains results for the target model, and 'false' otherwise, with no additional explanation.
+
+- Target Model: {Model Name}
+- Table LaTeX: {Table LaTeX}
+
+Classification Output: 

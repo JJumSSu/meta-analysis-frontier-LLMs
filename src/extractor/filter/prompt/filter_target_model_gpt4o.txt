@@ -1,0 +1,8 @@
+Check if the provided Table LaTeX includes numerical experimental results for the target model, specifically considering its versions across different time periods (e.g., GPT-4o, GPT-4o-0828, GPT-4o-0623, GPT-4o-0314). 
+Tables should be regarded as containing results for the target model if they include these versions. However, if the table only includes variant models (e.g., GPT-4, GPT-4V, GPT4-Turbo, or o1), consider the table as not containing results for the target model.
+Respond with 'true' if the table contains results for the target model, and 'false' otherwise, with no additional explanation.
+
+- Target Model: {Model Name}
+- Table LaTeX: {Table LaTeX}
+
+Classification Output: 

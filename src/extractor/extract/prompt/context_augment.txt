@@ -1,0 +1,29 @@
+Augment the extracted records from the table's LaTeX source by incorporating additional context from the text source to enrich and complete the records. 
+
+Extracted Record Template: {"value": "xx", "dataset": "xx", "dataset_citation_tag": "xx", "subset": "xx", "model_name": "xx", "metric": "xx", "prompting_method": "xx", "number_of_shots": "xx"}
+
+To accurately augment and enrich the extracted records, follow these steps systematically:  
+
+1. **value**: Referencing the table source, if a numeric value is only partially extracted from a table cell, ensure that the entire content of the cell is used to update the value.
+
+2. **dataset**: Referencing the table source, table caption, and source text, locate the full name of dataset and update the name accordingly.  
+
+3. **dataset_citation_tag**: Referencing the table source, table caption, and source text, identify the dataset citation tag to the extracted record. Avoid using LaTeX syntax (e.g., `\cite` and curly brackets); return only the tag name contained within.
+
+4. **subset**: Referencing the table source, table caption, and source text, Identify specific subsets of the dataset, such as subtasks, domains, splits, or language pairs, and provide detailed descriptions of each subset. Prioritize the use of column information from the table source to identify the subset. If the subset is not explicitly mentioned in the table source, refer to the table caption or source text to identify the subset.
+
+5. **model_name**: Referencing the table source, if a model name is partially extracted, revisit the corresponding table cell to ensure the entire content is included.
+
+6. **metric**: Referencing the table source, table caption, and source text, extract the metrics used in the experiment along with detailed descriptions and any additional information about the evaluation protocol.
+
+7. **prompting_method**: Referencing the table source, table caption, and source text, search for and identify the prompting technique (e.g., direct, CoT, etc.) applied in the experiment, and provide a detailed explanation of it. Do not include any information related to the number of shots (e.g., few-shot, zero-shot, three-shot) in this field.
+
+8. **number_of_shots**: Referencing the table source, table caption, and source text, specify the number of shots used in the experiment. This must be an integer value.
+
+During output, output only the template following extracted results. Do not output any explanations or use latex grammar.
+For any unanswerable attributes in the templates, levae their value as "xx".
+
+Extracted Records: {{records}}  
+Table LaTeX Source: {{table_code}}  
+Text Source: {{text}}  
+Augmented Extracted Records: 

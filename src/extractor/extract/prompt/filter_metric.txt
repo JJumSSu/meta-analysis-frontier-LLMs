@@ -1,0 +1,44 @@
+Check if the given metric is present in the valid metric list. If it is valid, return the corresponding standardized metric name from the list (not the original name) and adjust its value to the appropriate scale and format based on the metric's guidelines. Strip any special characters from the value (e.g., convert "60%" to "60"). If the metric is not valid, return "<FAILED>". 
+
+A metric is considered valid if any part of its name matches an entry in the valid metric list or represents a variant of an entry. For example, "Sentiment Analysis Accuracy" is valid because "Accuracy" is in the list, and "F-Measure" is valid as it is a general term for "F1." However, "Consistency" is invalid as it is not included in the list.
+
+Output in the following dictionary format without any additional text explanation:
+{"Metric_Name": "<CORRESPONDING METRIC FROM THE LIST>", "Metric_Value": <ADJUSTED METRIC VALUE>}
+
+**Valid Metric List and Rules**:
+
+Accuracy, Exact Match, F1, BLEU, Rouge, Precision, Recall
+- Floating value from 0 to 100. If less than 1.0, multiply by 100 (e.g., 0.6 -> 60, 91.6 -> 91.6).
+
+MRR
+- Floating value from 0 to 1.
+
+Correlation Coefficient
+- Floating value from -1 to 1.
+
+MSE, MAE
+- Floating value from 0 to infinity.
+
+**Examples**:
+
+Given Metric Name: Sentiment Analysis Accuracy
+Given Metric Value: 0.6
+
+Your Output: {"Metric_Name": "Accuracy", "Metric_Value": 60}
+
+Given Metric Name: d-BLEU
+Given Metric Value: 0.45
+
+Your Output: {"Metric_Name": "BLEU", "Metric_Value": 45}
+
+Given Metric Name: Fleuncy
+Given Metric Value: 71
+
+Your Output: <FAILED>
+
+**Prediction Sample**:
+
+Given Metric Name: {{METRIC_NAME}}
+Given Metric Value: {{METRIC_VALUE}}
+
+Your Output: 

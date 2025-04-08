@@ -1,0 +1,6 @@
+Determine if the given Table LaTeX represents a leaderboard table. Leaderboard tables showcase the main results of the paper on a specific benchmark, often comparing these results with those from other studies. Tables are not considered leaderboard tables if they focus on ablation studies, hyperparameter tuning, dataset statistics, or other supplementary experiments.
+Respond with 'true' if the table is a leaderboar table, and 'false' otherwise, with no additional explanation.
+
+- Table LaTeX: {Table LaTeX}
+
+Classification Output: 

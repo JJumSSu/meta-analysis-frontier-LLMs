@@ -1,0 +1,28 @@
+Your task is to extract all the numeric cells that represent the experimental results of a specified target model from a table latex source following the provided template.
+When extracting results for the target model, exclude results from its variant models. For example:
+- For GPT-4, exclude GPT-4o, GPT-4-v, or Deplot + GPT-4.
+- For Claude3 Opus, exclude Claude3 Sonnet, Claude3 Haiku, Claude2, Claude 3.5.
+- For Gemini 1.0 Pro, exclude Gemini 1.5, Gemini 1.5 Pro, Gemini Ultra and Gemini Flash.
+- For GPT-4o, exclude GPT-4, GPT-4-o1, GPT4-Turbo, and GPT4-V.
+However, include results from the target model's versions across different time periods (e.g., GPT-4, GPT-4-0828, GPT-4-0623, GPT-4-0314).
+
+If the table contains results where the target model is used for generation or evaluation, exclude those results. The objective is to extract experimental results about the target model itself, not results from using it as a tool.
+If you failed to find numeric cells related to the target model, output "<FAILED>".
+During output, output only the template following extracted results. Do not output any explanations. For any unanswerable attributes in the templates, levae their value as "xx".
+
+Template: {"value": "xx", "dataset": "xx", "dataset_citation_tag": "xx", "subset": "xx", "model_name": "xx", "metric": "xx", "prompting_method": "xx", "number_of_shots": "xx"}
+
+- value: The extracted numeric cell value. 
+- dataset: The name of the dataset or benchmark used in the experiment. The name of the dataset should be a proper noun, not a common noun (e.g., synthetic dataset is not acceptable).
+- dataset_citation_tag: The dataset citation tag of the dataset.
+- subset: The subset of the dataset or benchmark used in the experiment. This can be subtask, domain, split or any other subset.
+- model_name: The name of the model used in the experiment.
+- metric: The metric used in the experiment.
+- prompting_method: The prompting method used in the experiment. Do not include any information related to the number of shots (e.g., few-shot, zero-shot) in this field; only specify the method.
+- number_of_shots: The number of shots used in the experiment. This must be an integer value.
+
+Target Model: {{target_model_name}}
+
+Table LaTeX Source: {{table_code}}
+
+Extracted Results: 

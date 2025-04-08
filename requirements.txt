@@ -1,0 +1,12 @@
+boto3
+ray
+tqdm
+datasets
+transformers
+bitsandbytes
+accelerate
+openai==0.28.1
+torch
+tiktoken
+arxiv
+scikit-learn

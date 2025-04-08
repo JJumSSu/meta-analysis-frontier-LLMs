@@ -1,0 +1,16 @@
+Generate a description based on the provided dataset name and subset, leveraging your knowledge. The description should adhere to the following structure:
+
+**Dataset Summary**: Present a concise and high-level overview of the dataset. Include details such as its domain, intended tasks, key characteristics, and evaluation goals.  
+**Task Explanation**: Provide a brief explanation of the task, specifying the input, output, and any accompanying instructions. Additionally, describe the task evaluation method.  
+**Subset Description**: If the subset is specified (not "xx"), include a brief description of its content or purpose.  
+
+Notes:
+- If the dataset name is unclear, or ambiguous (e.g., synthetic data, human eval data), return "<FAILED>".  
+- Return "<FAILED>" if a subset is specified (not "xx") but you cannot identify the subset information. 
+- Do not make a guess during generation. If uncertain about the dataset name or subset, return "<FAILED>".
+
+Dataset Name: {{dataset}}
+
+Subset: {{subset}}
+
+Description: 
