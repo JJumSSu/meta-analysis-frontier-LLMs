@@ -1,0 +1,28 @@
+Few-shot-CoT-CP
+SC-CoT
+RippleCoT
+ARCoT
+CoT-SEC
+CoT-SC
+Chain-of-Thought Self Consistency
+SymbCoT
+Scratchpad-CoT
+cott
+New CoT-SR
+CoT+SOP
+InfoRE + CoT
+IEP∪CoT
+TCoT
+Zero-shot-CoT-CP
+Complex CoT with PHP
+New CoT-Mix
+Self-consistency CoT (CoT-SC)
+without CoT evaluation
+New CoT-CR
+Self-ICL-CoT
+Json+Chain-of-Thought (CoT)
+3-shot, hard-hard, hint-cot
+pre-char prompt + char prompt + skill prompt + zcot
+3-shot, regular-hard, hint-cot
+Chain-of-Thought Self-Consistency
+Auto CoT

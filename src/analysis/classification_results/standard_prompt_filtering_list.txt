@@ -1,0 +1,159 @@
+ReACT
+Program of Thoughts (PoT)
+StrategyLLM-SC
+SimToM
+PHP (SC, K=40)
+Bagging of Cues (BoC)
+Detailed Guidelines
+Chain of Contradiction (CoC)
+LLM Debate
+EffiQA
+T
+AL
+CR
+SolutionLLM
+SKIG
+ToT
+Self-consistency (SC)
+CLARA(Ours)
+TimeToM
+Zero-shot-CP
+MagicSet
+MCTS+SOP
+ChatLogic
+SC-Select
+DG
+DetermLR
+eact
+Specific
+CCC(Ours)
+RALM
+AgentsBench
+AO
+kNN
+Documentation Prompt (DP)
+ThoT
+Self-Improve.
+Hierarchical Committee Reinforcement Agent
+EEDP
+TDB
+Self-Reflection
+ICP
+Think-on-Graph with Random Pruning (ToG-R)
+Est. Confidence
+Multi Shot Base
+Think-on-Graph-R
+Vanilla SEC
+RECOMP with self-Corpus
+Explicit Extraction and Reasoning (EER)
+HD-LoA
+Self-Consist.
+F
+Ours (w/ FastRAT_ext)
+pre-char prompt + char prompt + skill prompt
+ESC
+Chain of Logic
+CoS
+InfoRE
+Self-Notes
+Quality-Diversity
+SB
+FABLES
+CoSA
+SQP
+Adaptive Consistency
+Expert
+Metacognitive Prompting
+ZS-STD
+Few-shot (π_rank)
+Close Ended Prompt
+Role Based
+GoC
+SC-Reflect
+Self-EXP
+CoVE (F)
+EER prompt
+BoC
+Multi-Agent
+Think-on-Graph (ToG)
+Structured Feedback and Ensemble Agent
+Dynamic Memory and Refinement Agent
+Logic-LM
+LS
+GFA-W
+Rerailer
+GRL-Prompt
+StrategyLLM
+Program-Aided Language Models (PAL)
+Early-Stopping Self-Consistency
+Zero-Shot DRS (ours)
+Recite&Answer
+MeMo (ours)
+Long Question Coreference Adaptation(LQCA)
+DID
+E5 (with tools)
+Multi Shot Mix
+Self-Refine
+Our Method
+Random-2
+IEP
+Least-to-Most
+WM-Neurosymbolic
+RiC (Ours)
+PMP
+divide-and-conquer
+BottomUp
+Raw Inst.
+ZS-FinDSL
+QSM
+Self-ask
+Tree-of-Thoughts
+SC-Vote
+Factored
+PoT
+Self-Questioning Prompting
+ZEUS (HA)
+ArgMed-Agents
+Medprompt
+PromptPG
+StoC-ToT
+RAG with self-Corpus
+MedAgents
+Self-Contrast
+Web-ToolCall
+CoN
+Self-Debate
+TopDown
+MedAgent-Zero
+Symbolic
+w/o constrained decoding
+Abstention
+Graph of Cues (GoC)
+ExpertPrompt
+CoC
+Answer 5 times
+char prompt + skill prompt
+Tree-of-Thought (ToT)
+Divide-and-Conquer w/o DP
+TE
+Min. prompt
+MAD
+Self-ICL
+Proposed Method
+Plan-and-Solve
+GKP
+RAG (Retrieval-Augmented Generation)
+ZS-FinPYT
+Hint-Prompt
+Legal Reasoning Prompting
+Manual Metacognitive Prompting
+Math-Prompt
+pre-char prompt + char prompt + statistic predictor
+Tree of Thought (ToT)
+Chain-of-Logic
+3-shot, hard-hard
+annotation-only
+xx
+3-shot, regular-hard
+Json
+General

@@ -1,0 +1,849 @@
+GPT-4_2301.08721_CommonsenseQA (CSQA)_xx_12_Accuracy_2	Commonsense reasoning
+GPT-4_2301.08721_Grade School Math 8K (GSM8K)_xx_12_Accuracy_2	Math
+GPT-4_2301.08721_SVAMP_xx_12_Accuracy_2	Math
+GPT-4_2301.08721_AddSub_xx_12_Accuracy_2	Math
+GPT-4_2301.08721_Recognizing Textual Entailment (RTE)_xx_12_Accuracy_2	Entailment
+GPT-4_2303.17003_Exame Nacional do Ensino Médio (ENEM) 2022_Languages and Codes_3_Accuracy_2	Context-aware QA
+GPT-4_2303.17003_Exame Nacional do Ensino Médio (ENEM) 2022_Human Sciences_3_Accuracy_2	Commonsense reasoning
+GPT-4_2303.17003_Exame Nacional do Ensino Médio (ENEM) 2022_Natural Sciences_3_Accuracy_2	Math
+GPT-4_2303.17003_Exame Nacional do Ensino Médio (ENEM) 2022_Mathematics_3_Accuracy_2	Math
+GPT-4_2303.17003_Exame Nacional do Ensino Médio (ENEM) 2022_Total_3_Accuracy_2	Mixed datasets
+GPT-4_2304.05368_NCBI-disease_xx_0_F1_3	Context-aware QA
+GPT-4_2304.05368_BC5CDR-Chemical_xx_0_F1_3	Context-aware QA
+GPT-4_2304.05368_i2b2 2010-Relation_xx_0_F1_3	Context-aware QA
+GPT-4_2304.05368_SemEval 2013-DDI_xx_0_F1_3	Text classification
+GPT-4_2304.05368_MedNLI_xx_0_Accuracy_3	Entailment
+GPT-4_2304.05368_i2b2 2006-Smoking_xx_0_F1_3	Text classification
+GPT-4_2304.05368_BioASQ 10b-Factoid_xx_0_Accuracy_3	Context-aware QA
+GPT-4_2304.05368_NCBI-disease_xx_5_F1_3	Context-aware QA
+GPT-4_2304.05368_BC5CDR-Chemical_xx_5_F1_3	Context-aware QA
+GPT-4_2304.05368_i2b2 2010-Relation_xx_5_F1_3	Context-aware QA
+GPT-4_2304.05368_SemEval 2013-DDI_xx_5_F1_3	Text classification
+GPT-4_2304.05368_MedNLI_xx_5_Accuracy_3	Entailment
+GPT-4_2304.05368_i2b2 2006-Smoking_xx_5_F1_3	Text classification
+GPT-4_2304.05368_BioASQ 10b-Factoid_xx_5_Accuracy_3	Context-aware QA
+GPT-4_2304.05368_i2b2 2010-Relation_xx_0_F1_4	Context-aware QA
+GPT-4_2304.05368_SemEval 2013-DDI_xx_0_F1_4	Text classification
+GPT-4_2304.05368_MedNLI_xx_0_Accuracy_4	Entailment
+GPT-4_2304.05368_BioASQ 10b-Factoid_xx_0_Accuracy_4	Context-aware QA
+GPT-4_2304.05368_NCBI-disease_xx_5_F1_5	Context-aware QA
+GPT-4_2304.05368_BC5CDR-Chemical_xx_5_F1_5	Context-aware QA
+GPT-4_2304.05368_SemEval 2013-DDI_xx_5_F1_5	Text classification
+GPT-4_2304.05368_BioASQ 10b-Factoid_xx_5_Accuracy_5	Context-aware QA
+GPT-4_2310.05915_HotPotQA_xx_xx_Exact Match_4	Multi-hop QA
+GPT-4_2310.08678_Chartered Financial Analyst (CFA) Level II Exams_Level I Exams_0_Accuracy_1	Encyclopedic knowledge
+GPT-4_2310.08678_Chartered Financial Analyst (CFA) Level II Exams_Level II Exams_0_Accuracy_1	Encyclopedic knowledge
+GPT-4_2310.09223_FACT-GPT Dataset_Public Health Misinformation_xx_Precision_3	Text classification
+GPT-4_2310.09223_FACT-GPT Dataset_Public Health Misinformation_xx_Recall_3	Text classification
+GPT-4_2310.09223_FACT-GPT Dataset_Public Health Misinformation_xx_Accuracy_3	Text classification
+GPT-4_2310.09223_FACT-GPT Dataset_Public Health Misinformation_0_Precision_3	Text classification
+GPT-4_2310.09223_FACT-GPT Dataset_Public Health Misinformation_0_Recall_3	Text classification
+GPT-4_2310.09223_FACT-GPT Dataset_Public Health Misinformation_0_Accuracy_3	Text classification
+GPT-4_2310.10627_HaluEval_summarization_xx_Accuracy_1	Generation
+GPT-4_2310.12342_Mental-Ability Reasoning Benchmark_Puzzles and Brain Teasers_xx_Accuracy_4	Logical reasoning
+GPT-4_2310.12342_Mental-Ability Reasoning Benchmark_Riddles_xx_Accuracy_4	Logical reasoning
+GPT-4_2310.12342_Mental-Ability Reasoning Benchmark_Parajumble_xx_Accuracy_4	Logical reasoning
+GPT-4_2310.12342_Mental-Ability Reasoning Benchmark_Critical Reasoning_xx_Accuracy_4	Logical reasoning
+GPT-4_2310.16755_Higher Order Theory of Mind (Hi-ToM)_stories without deception_0_Accuracy_6	Commonsense reasoning
+GPT-4_2310.16755_Higher Order Theory of Mind (Hi-ToM)_stories with deception_0_Accuracy_6	Commonsense reasoning
+GPT-4_2310.16755_Higher Order Theory of Mind (Hi-ToM)_Overall_0_Accuracy_6	Logical reasoning
+GPT-4_2311.01460_4x4 Multiplication_xx_few-shot_Accuracy_4	Math
+GPT-4_2311.01460_5x5 Multiplication_xx_few-shot_Accuracy_4	Math
+GPT-4_2311.01460_GSM8K-Aug_xx_few-shot_Accuracy_4	Math
+GPT-4_2311.06555_Rams_Arg-I_1_F1_1	Context-aware QA
+GPT-4_2311.06555_Rams_Arg-C_1_F1_1	Context-aware QA
+GPT-4_2311.08803_StrategyQA_xx_xx_Accuracy_4	Multi-hop QA
+GPT-4_2311.08803_Multi-Step Arithmetic_xx_xx_Accuracy_4	Math
+GPT-4_2311.09581_Adversarial Natural Language Inference (ANLI)_R1_0_Accuracy_1	Entailment
+GPT-4_2311.09581_Adversarial Natural Language Inference (ANLI)_R2_0_Accuracy_1	Entailment
+GPT-4_2311.09581_Adversarial Natural Language Inference (ANLI)_R3_0_Accuracy_1	Entailment
+GPT-4_2311.09581_Medical Natural Language Inference (MedNLI)_xx_0_Accuracy_1	Entailment
+GPT-4_2311.09581_Adversarial Natural Language Inference (ANLI)_R1_2_Accuracy_1	Entailment
+GPT-4_2311.09581_Adversarial Natural Language Inference (ANLI)_R2_2_Accuracy_1	Entailment
+GPT-4_2311.09581_Adversarial Natural Language Inference (ANLI)_R3_2_Accuracy_1	Entailment
+GPT-4_2311.09581_Medical Natural Language Inference (MedNLI)_xx_2_Accuracy_1	Entailment
+GPT-4_2311.09581_Medical Natural Language Inference (MedNLI)_3-way classification_0_Accuracy_2	Entailment
+GPT-4_2311.09581_Medical Natural Language Inference (MedNLI)_3-way classification_3_Accuracy_2	Entailment
+GPT-4_2311.10227_BigTOM_False Belief_0_Accuracy_1	Commonsense reasoning
+GPT-4_2311.10227_ToMi_False Belief_0_Accuracy_1	Commonsense reasoning
+GPT-4_2311.10227_BigTOM_All_0_Accuracy_1	Commonsense reasoning
+GPT-4_2311.10227_ToMi_All_0_Accuracy_1	Commonsense reasoning
+GPT-4_2311.14722_FinQA_xx_0_Accuracy_2	Math
+GPT-4_2311.14722_ConvFinQA_xx_0_Accuracy_2	Context-aware QA
+GPT-4_2311.14722_Tabular and Textual Question Answering (TATQA)_xx_0_Accuracy_2	Context-aware QA
+GPT-4_2304.09797_AddSub_xx_xx_Accuracy_8	Math
+GPT-4_2304.09797_Single Eq_xx_xx_Accuracy_8	Math
+GPT-4_2305.08322_C-Eval_C-Evalh_5_Accuracy_5	Math
+GPT-4_2305.08322_C-Eval_Advanced Mathematics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_College Chemistry_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_College Physics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_College Programming_5_Accuracy_10	Symbolic and algorithmic
+GPT-4_2305.08322_C-Eval_Computer Architecture_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Computer Network_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Discrete Mathematics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_Electrical Engineer_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_High School Biology_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_High School Chemistry_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_High School Mathematics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_High School Physics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_Metrology Engineer_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Middle School Biology_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Middle School Chemistry_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_Middle School Mathematics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_Middle School Physics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_Operating System_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Probability and Statistics_5_Accuracy_10	Math
+GPT-4_2305.08322_C-Eval_Veterinary Medicine_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Business Administration_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_College Economics_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Education Science_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_High School Geography_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_High School Politics_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Mao Zedong Thought_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Marxism_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Middle School Geography_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Middle School Politics_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Teacher Qualification_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Art Studies_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Chinese Language and Literature_5_Accuracy_10	Context-aware QA
+GPT-4_2305.08322_C-Eval_High School Chinese_5_Accuracy_10	Context-aware QA
+GPT-4_2305.08322_C-Eval_High School History_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Ideological and Moral Cultivation_5_Accuracy_10	Commonsense reasoning
+GPT-4_2305.08322_C-Eval_Law_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Legal Professional_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Logic_5_Accuracy_10	Logical reasoning
+GPT-4_2305.08322_C-Eval_Middle School History_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Modern Chinese History_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Professional Tour Guide_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Accountant_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Basic Medicine_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Civil Servant_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Clinical Medicine_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Environmental Impact Assessment Engineer_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Fire Engineer_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Physician_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Plant Protection_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Sports Science_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Tax Accountant_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.08322_C-Eval_Urban and Rural Planner_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2305.10276_SPARTUN_xx_5_Accuracy_6	Spatial and temporal reasoning
+GPT-4_2305.12524_TheoremQA_Integer_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_Float_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_Option_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_List_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_Bool_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_Math_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_CS&EE_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_Physics_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_Finance_xx_Accuracy_2	Math
+GPT-4_2305.12524_TheoremQA_All_xx_Accuracy_2	Math
+GPT-4_2305.14333_Grade School Math 8K (GSM8K)_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_SVAMP_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_ASDIV_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_Single Operation_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_Single Equation_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_AddSub_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_Multi-Arith_Arithmetic_xx_Accuracy_1	Math
+GPT-4_2305.14333_Date Understanding_Symbolic_xx_Accuracy_1	Symbolic and algorithmic
+GPT-4_2305.14333_Grade School Math 8K (GSM8K)_Self-Consistency with 5 sampled paths_5_Accuracy_2	Math
+GPT-4_2305.14333_Grade School Math 8K (GSM8K)_Self-Consistency with 15 sampled paths_15_Accuracy_2	Math
+GPT-4_2306.11025_Weekly_ROUGE-2 (K)_xx_Rouge_2	Generation
+GPT-4_2306.11025_Monthly (Every 4 Weeks)_ROUGE-1 (S)_xx_Rouge_2	Generation
+GPT-4_2306.11025_Monthly (Every 4 Weeks)_ROUGE-2 (S)_xx_Rouge_2	Generation
+GPT-4_2306.11025_Monthly (Every 4 Weeks)_ROUGE-1 (K)_xx_Rouge_2	Generation
+GPT-4_2306.11025_Monthly (Every 4 Weeks)_ROUGE-2 (K)_xx_Rouge_2	Generation
+GPT-4_2307.03762_AQuA-RAT_xx_xx_Accuracy_2	Context-aware QA
+GPT-4_2307.03762_LOGIQA_English_xx_Accuracy_2	Logical reasoning
+GPT-4_2307.03762_LOGIQA_Chinese_xx_Accuracy_2	Logical reasoning
+GPT-4_2307.03762_JEC-QA_KD_xx_Accuracy_2	Context-aware QA
+GPT-4_2307.03762_JEC-QA_CA_xx_Accuracy_2	Context-aware QA
+GPT-4_2307.03762_LSAT_AR_xx_Accuracy_2	Logical reasoning
+GPT-4_2307.03762_LSAT_LR_xx_Accuracy_2	Logical reasoning
+GPT-4_2307.03762_LSAT_RC_xx_Accuracy_2	Context-aware QA
+GPT-4_2307.03762_SAT_Math_xx_Accuracy_2	Math
+GPT-4_2307.03762_SAT_English_xx_Accuracy_2	Context-aware QA
+GPT-4_2307.03762_GK_Cn_xx_Accuracy_2	Logical reasoning
+GPT-4_2307.03762_GK_En_xx_Accuracy_2	Mixed datasets
+GPT-4_2307.03762_GK_geography_xx_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2307.03762_GK_history_xx_Accuracy_2	Encyclopedic knowledge
+GPT-4_2307.03762_GK_biology_xx_Accuracy_2	Encyclopedic knowledge
+GPT-4_2307.03762_GK_chemistry_xx_Accuracy_2	Encyclopedic knowledge
+GPT-4_2307.03762_GK_physics_xx_Accuracy_2	Math
+GPT-4_2307.03762_GK_Math-QA_xx_Accuracy_2	Math
+GPT-4_2307.03762_GK_Math-Cloze_xx_Accuracy_2	Math
+GPT-4_2307.03762_AGIEval_Average_xx_Accuracy_2	Mixed datasets
+GPT-4_2307.07697_Complex Web Questions_xx_xx_Exact Match_17	Multi-hop QA
+GPT-4_2307.07697_WebQuestionsSP_xx_xx_Exact Match_17	Context-aware QA
+GPT-4_2307.12573_Tachikuma_CF_xx_F1_2	Context-aware QA
+GPT-4_2307.12573_Tachikuma_SF_xx_F1_2	Context-aware QA
+GPT-4_2308.05342_Quora Question Pairs_xx_0_Accuracy_3	Text classification
+GPT-4_2308.05342_Quora Question Pairs_xx_0_F1_3	Text classification
+GPT-4_2308.05342_Question Natural Language Inference_xx_0_Accuracy_3	Entailment
+GPT-4_2308.05342_BoolQ_xx_0_Accuracy_3	Context-aware QA
+GPT-4_2308.05342_Word-in-Context_xx_0_Accuracy_3	Context-aware QA
+GPT-4_2308.05342_BC5CDR-chem_xx_0_F1_3	Context-aware QA
+GPT-4_2308.05342_Drug-Drug Interaction (DDI)_xx_0_F1_3	Text classification
+GPT-4_2308.05342_Medical Natural Language Inference (MedNLI)_xx_0_Accuracy_3	Entailment
+GPT-4_2308.05342_Quora Question Pairs_xx_5_Accuracy_3	Text classification
+GPT-4_2308.05342_Quora Question Pairs_xx_5_F1_3	Text classification
+GPT-4_2308.05342_Question Natural Language Inference_xx_5_Accuracy_3	Entailment
+GPT-4_2308.05342_BoolQ_xx_5_Accuracy_3	Context-aware QA
+GPT-4_2308.05342_Word-in-Context_xx_5_Accuracy_3	Context-aware QA
+GPT-4_2308.05342_BC5CDR-chem_xx_5_F1_3	Context-aware QA
+GPT-4_2308.05342_Drug-Drug Interaction (DDI)_xx_5_F1_3	Text classification
+GPT-4_2308.05342_Medical Natural Language Inference (MedNLI)_xx_5_Accuracy_3	Entailment
+GPT-4_2308.09975_FIN-Eval_Finance_0_Accuracy_4	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Economy_0_Accuracy_4	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Accounting_0_Accuracy_4	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Certificate_0_Accuracy_4	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Average_0_Accuracy_4	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Finance_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Economy_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Accounting_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Certificate_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2308.09975_FIN-Eval_Average_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2309.12546_Model_non-``yes/no''_xx_Precision_1	Generation
+GPT-4_2309.12546_Model_non-``yes/no''_xx_Recall_1	Generation
+GPT-4_2309.12546_Model_non-``yes/no''_xx_F1_1	Generation
+GPT-4_2309.14681_Grade School Math 8K (GSM8K)_Arithmetic Reasoning_5_Accuracy_3	Math
+GPT-4_2309.14681_MATH_Arithmetic Reasoning_0_Accuracy_3	Math
+GPT-4_2309.14681_Grade School Math 8K (GSM8K)_Arithmetic Reasoning_0_Accuracy_3	Math
+GPT-4_2309.14681_AI2 Reasoning Challenge (ARC)_Commonsense Reasoning_0_Accuracy_3	Commonsense reasoning
+GPT-4_2309.14681_Measuring Multitask Language Understanding (MMLU)_Multi-task Language Understanding_0_Accuracy_3	Mixed datasets
+GPT-4_2309.14681_C-Eval_Multi-task Language Understanding in Chinese_0_Accuracy_3	Mixed datasets
+GPT-4_2309.14681_MATH_Arithmetic Reasoning_4_Accuracy_3	Math
+GPT-4_2309.14681_AI2 Reasoning Challenge (ARC)_Commonsense Reasoning_5_Accuracy_3	Commonsense reasoning
+GPT-4_2309.14681_Measuring Multitask Language Understanding (MMLU)_Multi-task Language Understanding_4_Accuracy_3	Mixed datasets
+GPT-4_2309.14681_C-Eval_Multi-task Language Understanding in Chinese_4_Accuracy_3	Mixed datasets
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Order_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Frequency_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Duration_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Typical Time_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Ambiguity Resolution_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Arithmetic_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Relation_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Relation_0_F1_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Temporal NLI_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Temporal NLI_0_F1_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Causality_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Storytelling_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Order_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Frequency_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Duration_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Typical Time_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Ambiguity Resolution_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Arithmetic_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Relation_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Relation_5_F1_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Temporal NLI_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Temporal NLI_5_F1_2	Entailment
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Causality_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00835_Temporal Reasoning for large lAnguage Model benchmark_Storytelling_5_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2310.00935_Knowledge Conflict Evaluation Framework_Para._4_Accuracy_2	Context-aware QA
+GPT-4_2310.00935_Knowledge Conflict Evaluation Framework_Conflicting._4_Accuracy_2	Other
+GPT-4_2310.00935_Knowledge Conflict Evaluation Framework_Both_4_Accuracy_2	Context-aware QA
+GPT-4_2310.05163_Re2Text_xx_3_Accuracy_9	Context-aware QA
+Gemini1.0_Pro_2402.12424_FinQA_Brackt_xx_Accuracy_4	Context-aware QA
+Gemini1.0_Pro_2402.12424_ToTTo_Bracket_xx_Rouge_11	Generation
+Gemini1.0_Pro_2402.12424_ToTTo_Column-JSON_xx_Rouge_11	Generation
+Gemini1.0_Pro_2402.12424_ToTTo_Row-JSON_xx_Rouge_11	Generation
+Gemini1.0_Pro_2402.12424_ToTTo_Row-Identifier_xx_Rouge_11	Generation
+Gemini1.0_Pro_2406.02919_MultiMedQA_comparison_5_Accuracy_1	Encyclopedic knowledge
+Gemini1.0_Pro_2406.02919_MultiMedQA_rectification_5_Accuracy_1	Encyclopedic knowledge
+Gemini1.0_Pro_2406.02919_MultiMedQA_discrimination_5_Accuracy_1	Encyclopedic knowledge
+Gemini1.0_Pro_2406.02919_MultiMedQA_verification_5_Accuracy_1	Encyclopedic knowledge
+Gemini1.0_Pro_2406.02919_MultiMedQA_average_5_Accuracy_1	Encyclopedic knowledge
+GPT-4_2407.17469_Stanford Question Answering Dataset v2.0_xx_0_F1_4	Context-aware QA
+GPT-4_2407.17469_Question Answering with Questionable Assumptions_xx_0_F1_4	Context-aware QA
+GPT-4_2407.17469_BanditQA_xx_0_F1_4	Context-aware QA
+GPT-4_2407.17469_BBC News_xx_0_F1_4	Text classification
+GPT-4_2407.17469_Yelp Reviews_xx_0_F1_4	Text classification
+GPT-4_2407.17469_Stanford Question Answering Dataset v2.0_xx_xx_F1_4	Context-aware QA
+GPT-4_2407.17469_Question Answering with Questionable Assumptions_xx_xx_F1_4	Context-aware QA
+GPT-4_2407.17469_BanditQA_xx_xx_F1_4	Context-aware QA
+GPT-4_2407.17469_BBC News_xx_xx_F1_4	Text classification
+GPT-4_2407.17469_Yelp Reviews_xx_xx_F1_4	Text classification
+GPT-4_2407.17469_Stanford Question Answering Dataset v2.0_Answerability_0_F1_13	Context-aware QA
+GPT-4_2407.17469_QA$^2$_Answerability_0_F1_13	Context-aware QA
+GPT-4_2407.17469_BanditQA_Answerability_0_F1_13	Context-aware QA
+GPT-4_2407.17469_BBC_Answerability_0_F1_13	Context-aware QA
+GPT-4_2407.17469_Reddit_Answerability_0_F1_13	Context-aware QA
+GPT-4_2407.17469_Yelp_Answerability_0_F1_13	Context-aware QA
+GPT-4_2407.17469_Stanford Question Answering Dataset v2.0_Answerability_3_F1_13	Context-aware QA
+GPT-4_2407.17469_QA$^2$_Answerability_3_F1_13	Context-aware QA
+GPT-4_2407.17469_BanditQA_Answerability_3_F1_13	Context-aware QA
+GPT-4_2407.17469_BBC_Answerability_3_F1_13	Context-aware QA
+GPT-4_2407.17469_Reddit_Answerability_3_F1_13	Context-aware QA
+GPT-4_2407.17469_Yelp_Answerability_3_F1_13	Context-aware QA
+GPT-4_2407.17469_QA$^2$_Entity Overlap Ratios_0_F1_13	Context-aware QA
+GPT-4_2407.17469_BanditQA_Entity Overlap Ratios_0_F1_13	Context-aware QA
+GPT-4_2407.17469_Reddit_Entity Overlap Ratios_0_F1_13	Context-aware QA
+GPT-4_2407.17469_Yelp_Entity Overlap Ratios_0_F1_13	Context-aware QA
+GPT-4_2407.17469_QA$^2$_Entity Overlap Ratios_3_F1_13	Context-aware QA
+GPT-4_2407.17469_BanditQA_Entity Overlap Ratios_3_F1_13	Context-aware QA
+GPT-4_2407.17469_Reddit_Entity Overlap Ratios_3_F1_13	Context-aware QA
+GPT-4_2407.17469_Yelp_Entity Overlap Ratios_3_F1_13	Context-aware QA
+GPT-4_2407.20244_ProntoQA_Correctly answered_xx_Recall_3	Logical reasoning
+GPT-4_2407.20244_ProntoQA_Correctly answered_xx_Precision_3	Logical reasoning
+GPT-4_2407.20244_ProntoQA_Incorrectly answered_xx_Recall_3	Logical reasoning
+GPT-4_2407.20244_ProntoQA_Incorrectly answered_xx_Precision_3	Logical reasoning
+GPT-4_2407.20588_CIAMM Dataset_xx_xx_Accuracy_1	Generation
+GPT-4_2407.20588_Machinery Diagnostics_xx_xx_Accuracy_2	Other
+GPT-4_2407.21531_ChatMusician_Knowledge_xx_Accuracy_3	Generation
+GPT-4_2407.21531_ChatMusician_Reasoning_xx_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2408.07676_MentalManipCon_xx_0_Precision_1	Symbolic and algorithmic
+GPT-4o_2408.07676_MentalManipCon_xx_0_Recall_1	Symbolic and algorithmic
+GPT-4o_2408.07676_MentalManipCon_xx_0_Accuracy_1	Symbolic and algorithmic
+GPT-4o_2408.07676_MentalManipCon_xx_3_Precision_1	Logical reasoning
+GPT-4o_2408.07676_MentalManipCon_xx_3_Recall_1	Symbolic and algorithmic
+GPT-4o_2408.07676_MentalManipCon_xx_3_Accuracy_1	Symbolic and algorithmic
+GPT-4o_2408.10839_Grade School Math 8K (GSM8K)_xx_xx_Accuracy_1	Math
+GPT-4o_2408.10839_SVAMP_xx_xx_Accuracy_1	Math
+GPT-4o_2408.10839_Multi-Arith_xx_xx_Accuracy_1	Math
+GPT-4o_2408.10839_AQuA_xx_xx_Accuracy_1	Math
+GPT-4o_2408.10839_MATH_xx_xx_Accuracy_1	Math
+GPT-4o_2409.00255_MAPWise_China_0_Precision_5	Spatial and temporal reasoning
+GPT-4o_2409.00255_MAPWise_Binary_0_Accuracy_34	Spatial and temporal reasoning
+GPT-4o_2409.00255_MAPWise_Single_0_Recall_34	Spatial and temporal reasoning
+GPT-4o_2409.00255_MAPWise_Range_0_Accuracy_34	Spatial and temporal reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Boolean expressions_xx_Accuracy_1	Logical reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Boolean expressions_xx_F1_1	Logical reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Causal judgement_xx_Accuracy_1	Logical reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Causal judgement_xx_F1_1	Logical reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Navigate_xx_Accuracy_1	Spatial and temporal reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Navigate_xx_F1_1	Spatial and temporal reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Sport understanding_xx_Accuracy_1	Mixed datasets
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Sport understanding_xx_F1_1	Mixed datasets
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Web of lies_xx_Accuracy_1	Entailment
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Web of lies_xx_F1_1	Text classification
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Formal fallacies_xx_Accuracy_1	Logical reasoning
+GPT-4o_2409.16635_BIG-Bench Hard (BBH)_Formal fallacies_xx_F1_1	Logical reasoning
+GPT-4o_2409.16635_Winogrande (WG)_xx_xx_Accuracy_1	Commonsense reasoning
+GPT-4o_2409.16635_Winogrande (WG)_xx_xx_F1_1	Commonsense reasoning
+GPT-4o_2409.16635_SMS Spam Detection_xx_xx_Accuracy_2	Text classification
+GPT-4o_2409.16635_SMS Spam Detection_xx_xx_F1_2	Text classification
+GPT-4o_2409.16635_Fake News Detection_xx_xx_Accuracy_2	Text classification
+GPT-4o_2409.16635_Fake News Detection_xx_xx_F1_2	Text classification
+GPT-4o_2406.04127_Massive Multitask Language Understanding (MMLU)-Redux_xx_0_Recall_2	Mixed datasets
+GPT-4o_2406.04127_Massive Multitask Language Understanding (MMLU)-Redux_xx_0_F1_2	Mixed datasets
+GPT-4o_2406.04127_Massive Multitask Language Understanding (MMLU)-Redux_xx_xx_Recall_2	Mixed datasets
+GPT-4o_2406.04127_Massive Multitask Language Understanding (MMLU)-Redux_xx_xx_F1_2	Mixed datasets
+GPT-4o_2406.04127_Measuring Multitask Language Understanding (MMLU)_College Mathematics_xx_F1_5	Math
+GPT-4o_2406.04127_Measuring Multitask Language Understanding (MMLU)_Formal Logic_xx_F1_5	Logical reasoning
+GPT-4o_2406.04127_Measuring Multitask Language Understanding (MMLU)_College Mathematics_xx_Recall_7	Math
+GPT-4o_2406.11217_WeatherQA_Areas Affected Multi-choice QA_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4o_2406.11217_WeatherQA_Areas Affected Multi-choice QA_3_Accuracy_2	Spatial and temporal reasoning
+GPT-4o_2406.11217_WeatherQA_Concerning Classification_3_Accuracy_3	Spatial and temporal reasoning
+GPT-4o_2406.11217_WeatherQA_Concerning Classification_3_F1_3	Spatial and temporal reasoning
+GPT-4o_2406.11234_SemEval 2014 Restaurant_O-S_xx_F1_11	Text classification
+GPT-4o_2406.11234_SemEval 2014 Laptop_O-S_xx_F1_11	Text classification
+GPT-4o_2406.11234_SemEval 2015 Restaurant_O-S_xx_F1_11	Text classification
+GPT-4o_2406.11234_SemEval 2016 Restaurant_O-S_xx_F1_11	Text classification
+GPT-4o_2406.17038_modeLing_xx_xx_Accuracy_2	Meta-linguistic
+GPT-4o_2406.19356_real-world math MCQ dataset_xx_3_Exact Match_1	Math
+GPT-4o_2406.19356_real-world math MCQ dataset_xx_10_Exact Match_1	Math
+GPT-4o_2407.03884_PCA-D_SOP prediction_xx_Precision_4	Logical reasoning
+GPT-4o_2407.03884_PCA-D_SOP prediction_xx_Recall_4	Logical reasoning
+GPT-4o_2407.03884_PCA-D_SOP prediction_xx_F1_4	Logical reasoning
+GPT-4o_2407.03884_PCA-D_turn_xx_Accuracy_5	Generation
+GPT-4o_2407.03884_PCA-D_controllable_xx_Accuracy_5	Generation
+GPT-4o_2407.03884_PCA-D_proactive_xx_Accuracy_5	Generation
+GPT-4o_2407.03884_PCA-D_dialogue_xx_Accuracy_5	Generation
+GPT-4o_2407.03884_PCA-D_2_xx_BLEU_5	Generation
+GPT-4o_2407.03884_PCA-D_4_xx_BLEU_5	Generation
+GPT-4o_2407.12725_Internet Argument Corpus V1_xx_0_Accuracy_3	Text classification
+GPT-4o_2407.12725_Internet Argument Corpus V1_xx_0_F1_3	Text classification
+GPT-4o_2407.12725_Internet Argument Corpus V2_xx_0_Accuracy_3	Text classification
+GPT-4o_2407.12725_Internet Argument Corpus V2_xx_0_F1_3	Text classification
+GPT-4o_2407.12725_SemEval 2018 Task 3_xx_0_Accuracy_3	Text classification
+GPT-4o_2407.12725_SemEval 2018 Task 3_xx_0_F1_3	Text classification
+GPT-4o_2407.12725_MUStARD_xx_0_Accuracy_3	Text classification
+GPT-4o_2407.12725_MUStARD_xx_0_F1_3	Text classification
+GPT-4o_2410.00193_Real Diagrams_Entity Recognition_0_Accuracy_5	Spatial and temporal reasoning
+GPT-4o_2410.00193_Real Diagrams_Entity Reasoning_0_Accuracy_5	Spatial and temporal reasoning
+GPT-4o_2410.00193_Real Diagrams_Relation Recognition_0_Accuracy_5	Spatial and temporal reasoning
+GPT-4o_2410.00193_Real Diagrams_Relation Reasoning_0_Accuracy_5	Spatial and temporal reasoning
+GPT-4o_2410.00193_Real Diagrams_KF, NC_xx_Accuracy_7	Spatial and temporal reasoning
+GPT-4o_2410.00193_Synthetic Diagram QA_KF, NC_0_Accuracy_10	Spatial and temporal reasoning
+GPT-4o_2410.01208_StringBench_Multilingual_xx_Accuracy_2	Generation
+GPT-4o_2410.01208_StringBench_Hash_xx_Accuracy_2	Symbolic and algorithmic
+GPT-4o_2410.01208_StringBench_Random String_xx_Accuracy_2	Symbolic and algorithmic
+GPT-4o_2410.01208_StringBench_AVG_xx_Accuracy_2	Symbolic and algorithmic
+GPT-4o_2410.01671_LooGLE_Arxiv paper abstract_xx_Rouge_1	Context-aware QA
+GPT-4o_2410.01671_LooGLE_Long dependency QA_xx_Rouge_1	Context-aware QA
+GPT-4o_2410.01671_L-Eval_TOEFL_xx_Accuracy_1	Context-aware QA
+GPT-4o_2410.01671_L-Eval_QuALITY_xx_Accuracy_1	Context-aware QA
+GPT-4o_2410.01671_L-Eval_Coursera_xx_Accuracy_1	Context-aware QA
+GPT-4o_2410.01671_L-Eval_SFcition_xx_Accuracy_1	Context-aware QA
+GPT-4o_2410.01671_LongBench_HotpotQA_xx_F1_1	Multi-hop QA
+GPT-4o_2410.01671_LongBench_2WikiMultihopQA_xx_F1_1	Multi-hop QA
+GPT-4o_2410.01671_LongBench_MuSiQue_xx_F1_1	Multi-hop QA
+GPT-4o_2410.02892_AIW_Alice Problem_0_Accuracy_1	Commonsense reasoning
+GPT-4o_2410.02892_MR-GSM8K_xx_xx_Accuracy_1	Math
+GPT-4o_2410.02892_Holiday Puzzle_xx_xx_Accuracy_1	Spatial and temporal reasoning
+GPT-4o_2412.00353_Grade School Math 8K (GSM8K)_xx_8_Accuracy_3	Math
+GPT-4o_2412.00353_Logical Fallacy_xx_0_Accuracy_3	Logical reasoning
+GPT-4o_2412.00353_Logical Fallacy_xx_8_Accuracy_3	Logical reasoning
+GPT-4o_2412.00353_StrategyQA_xx_6_Accuracy_3	Multi-hop QA
+GPT-4o_2412.00353_Epistemic Reasoning_xx_0_Accuracy_3	Logical reasoning
+GPT-4o_2412.00353_Epistemic Reasoning_xx_8_Accuracy_3	Logical reasoning
+GPT-4o_2412.04509_SemEval 2018 Task 3_twitter statements_xx_Accuracy_1	Text classification
+GPT-4o_2412.04509_SemEval 2018 Task 3_twitter statements_xx_F1_1	Text classification
+GPT-4o_2412.04509_MUStARD_TV and movie dialogue_xx_Accuracy_1	Other
+GPT-4o_2412.04509_MUStARD_TV and movie dialogue_xx_F1_1	Text classification
+GPT-4o_2410.11385_Causal Path Discovery_1*6_0_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_2*5_0_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_2*6_0_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_Avg_0_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Backdoor Adjustment_Avg_0_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_1*6_1_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_2*5_1_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_2*6_1_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_Avg_1_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Backdoor Adjustment_Avg_1_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_1*6_2_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_2*5_2_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_2*6_2_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Causal Path Discovery_Avg_2_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Backdoor Adjustment_Avg_2_Accuracy_3	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_2*6_0_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_3*5_0_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_Avg_0_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Counterfactual Inference_Avg_0_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_2*6_1_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_3*5_1_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_Avg_1_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Counterfactual Inference_Avg_1_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_2*6_2_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_3*5_2_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Factual Inference_Avg_2_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2410.11385_Counterfactual Inference_Avg_2_Accuracy_4	Symbolic and algorithmic
+GPT-4o_2412.16953_ProntoQA_5-hop_xx_Accuracy_1	Logical reasoning
+GPT-4o_2412.16953_ProofWriter_depth-5_xx_Accuracy_1	Logical reasoning
+GPT-4o_2412.17729_Chumor_Overall_xx_Accuracy_5	Generation
+GPT-4o_2412.17729_Chumor_ERNIE Bot_xx_Accuracy_5	Mixed datasets
+GPT-4o_2412.17729_Chumor_GPT-4o_xx_Accuracy_5	Generation
+GPT-4o_2412.20251_ComparisonQA_High Freq Question_4_Accuracy_1	Encyclopedic knowledge
+GPT-4o_2412.20251_ComparisonQA_High Freq Question_4_F1_1	Encyclopedic knowledge
+GPT-4o_2412.20251_ComparisonQA_Low Freq Question_4_Accuracy_1	Encyclopedic knowledge
+GPT-4o_2412.20251_ComparisonQA_Low Freq Question_4_F1_1	Encyclopedic knowledge
+GPT-4o_2412.20251_ComparisonQA_Average_4_Accuracy_1	Encyclopedic knowledge
+GPT-4o_2412.20251_ComparisonQA_Average_4_F1_1	Encyclopedic knowledge
+GPT-4o_2411.09547_MMCV_1-hop_xx_F1_4	Entailment
+GPT-4o_2411.09547_MMCV_2-hop_xx_F1_4	Multi-hop QA
+GPT-4o_2411.09547_MMCV_3-hop_xx_F1_4	Multi-hop QA
+GPT-4o_2411.09547_MMCV_4-hop_xx_F1_4	Multi-hop QA
+GPT-4o_2412.12564_SemEval-2016_EN_xx_F1_1	Text classification
+GPT-4o_2412.12564_SemEval-2016_ES_xx_F1_1	Text classification
+GPT-4o_2412.12564_SemEval-2016_FR_xx_F1_1	Text classification
+GPT-4o_2412.12564_SemEval-2016_RU_xx_F1_1	Text classification
+GPT-4o_2410.18001_Korean Calligraphy OCR_xx_xx_Accuracy_2	Other
+GPT-4o_2410.18001_Onion, Not The Onion_xx_xx_Accuracy_6	Text classification
+GPT-4o_2410.18001_Onion_Precision_xx_Precision_6	Text classification
+GPT-4o_2410.18001_Onion_Recall_xx_Recall_6	Text classification
+GPT-4o_2410.18001_English Lyrics_Before Cut-Off_0_Recall_10	Text classification
+GPT-4o_2410.18001_English Lyrics_Before Cut-Off_0_F1_10	Text classification
+GPT-4o_2410.18001_English Lyrics_After Cut-Off_0_Recall_10	Text classification
+GPT-4o_2410.18001_English Lyrics_After Cut-Off_0_F1_10	Text classification
+GPT-4_2406.19228_Accept/Reject task on calculator outputs_Disc._0_Accuracy_2	Symbolic and algorithmic
+GPT-4_2406.19228_math equations_xx_xx_Accuracy_5	Math
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_Overall_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_False-Belief_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_First-Order_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_Second-Order_0_Accuracy_1	Logical reasoning
+GPT-4_2407.01455_Big Theory of Mind (BigTOM)_Overall_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.01455_Big Theory of Mind (BigTOM)_False-Belief_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.01455_FanToM_All* Question Types_0_Accuracy_2	Commonsense reasoning
+GPT-4_2407.01455_FanToM_Belief Questions Overall_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2407.01455_FanToM_Belief Questions First-order_0_Accuracy_2	Commonsense reasoning
+GPT-4_2407.01455_FanToM_Belief Questions Third-acyc_0_Accuracy_2	Logical reasoning
+GPT-4_2407.01455_FanToM_Belief Questions Third-cyc_0_Accuracy_2	Logical reasoning
+GPT-4_2407.01455_FanToM_Answerability Questions All_0_Accuracy_2	Spatial and temporal reasoning
+GPT-4_2407.01455_FanToM_infoaccess Questions All_0_Accuracy_2	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_Total_0_Accuracy_5	Logical reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_True-Belief_0_Accuracy_5	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_False-Belief_0_Accuracy_5	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_Mem-Real_0_Accuracy_5	Spatial and temporal reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_First-Order_0_Accuracy_5	Commonsense reasoning
+GPT-4_2407.01455_Theory of Mind Inventory (ToMI)_Second-Order_0_Accuracy_5	Logical reasoning
+GPT-4_2407.01455_Big Theory of Mind (BigTOM)_True-Belief_0_Accuracy_5	Commonsense reasoning
+GPT-4_2407.01455_Big Theory of Mind (BigTOM)_False-Belief_0_Accuracy_5	Commonsense reasoning
+GPT-4_2407.01455_FanToM_Answerability Questions List_0_Accuracy_6	Logical reasoning
+GPT-4_2407.01455_FanToM_Answerability Questions Binary_0_F1_6	Logical reasoning
+GPT-4_2407.01455_FanToM_Infoaccess Questions All_0_Accuracy_6	Commonsense reasoning
+GPT-4_2407.01455_FanToM_Infoaccess Questions List_0_Accuracy_6	Logical reasoning
+GPT-4_2407.01455_FanToM_Infoaccess Questions Binary_0_F1_6	Logical reasoning
+GPT-4_2407.03687_HotPotQA_xx_0_Exact Match_1	Multi-hop QA
+GPT-4_2407.03687_HotPotQA_xx_0_F1_1	Multi-hop QA
+GPT-4_2407.03687_MusiQue_xx_0_Exact Match_2	Multi-hop QA
+GPT-4_2407.03687_MusiQue_xx_0_F1_2	Multi-hop QA
+GPT-4_2407.06501_StorySumm_validation_xx_Precision_14	Text classification
+GPT-4_2407.06501_StorySumm_validation_xx_Recall_14	Text classification
+GPT-4_2407.06501_StorySumm_validation_xx_Accuracy_14	Text classification
+GPT-4_2407.06501_StorySumm_xx_xx_Precision_15	Generation
+GPT-4_2407.06501_StorySumm_xx_xx_Recall_15	Generation
+GPT-4_2407.06501_StorySumm_validation split_xx_Precision_16	Generation
+GPT-4_2407.06501_StorySumm_validation split_xx_Recall_16	Generation
+GPT-4_2407.06501_StorySumm_validation split_xx_Accuracy_16	Generation
+GPT-4_2407.06501_StorySumm_test split_xx_Accuracy_17	Text classification
+GPT-4_2407.08836_Power Grid Fault Diagnosis Dataset_Diagnostic Accuracy_xx_Accuracy_1	Other
+GPT-4_2407.08937_e-CARE_xx_0_Accuracy_1	Other
+GPT-4_2407.08937_Social-IQA_xx_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.08937_HELP_xx_0_Accuracy_1	Other
+GPT-4_2407.08937_LogiQA-2_xx_0_Accuracy_1	Logical reasoning
+GPT-4_2407.08937_Measuring Multitask Language Understanding (MMLU)_xx_0_Accuracy_1	Mixed datasets
+GPT-4_2407.08937_Winogrande (WG)_xx_0_Accuracy_1	Commonsense reasoning
+GPT-4_2407.10162_CONCEPTRULES_V1 simplified_Zero_Accuracy_3	Logical reasoning
+GPT-4_2407.10162_CONCEPTRULES_V1 full_Zero_Accuracy_3	Logical reasoning
+GPT-4_2407.10162_CONCEPTRULES_V2 simplified_Zero_Accuracy_3	Logical reasoning
+GPT-4_2407.10162_CONCEPTRULES_V2 full_Zero_Accuracy_3	Symbolic and algorithmic
+GPT-4_2403.12145_Coal Mining Question Answering (QA)_Single-hop_4_Accuracy_1	Text classification
+GPT-4_2403.12145_Coal Mining Question Answering (QA)_Multi-hop_4_Accuracy_1	Multi-hop QA
+GPT-4_2403.14624_MathVerse_Text Dominant_0_Accuracy_1	Math
+GPT-4_2403.14624_MathVerse_Text Lite_0_Accuracy_1	Math
+GPT-4_2403.14624_MathVerse_Text Only_0_Accuracy_1	Math
+GPT-4_2403.19346_Unreasonable Math Problem (UMP) benchmark_unreasonable problems_0_Accuracy_2	Math
+GPT-4_2403.19346_Unreasonable Math Problem (UMP) benchmark_both unreasonable questions and their corresponding original reasonable questions_0_F1_2	Math
+GPT-4_2404.01461_Representativeness Heuristic AI Testing (ReHeAT)_xx_xx_Accuracy_2	Logical reasoning
+GPT-4_2404.01461_ReHeAT_Base Rate Fallacy_0_Accuracy_7	Logical reasoning
+GPT-4_2404.01461_ReHeAT_Conjunction Fallacy_0_Accuracy_7	Logical reasoning
+GPT-4_2404.01461_ReHeAT_Disjunction Fallacy_0_Accuracy_7	Logical reasoning
+GPT-4_2404.01461_ReHeAT_Insensitivity to Sample Size_0_Accuracy_7	Logical reasoning
+GPT-4_2404.01461_ReHeAT_Misconceptions of Chance_0_Accuracy_7	Logical reasoning
+GPT-4_2404.01461_ReHeAT_Regression Fallacy_0_Accuracy_7	Logical reasoning
+GPT-4_2404.02474_BrainTeaser_Sentence Puzzle - Detailed_3_Accuracy_5	Logical reasoning
+GPT-4_2404.13985_2WikiMultiHopQA_Dev_0_F1_7	Multi-hop QA
+GPT-4_2404.13985_MusiQue_Dev_0_F1_7	Multi-hop QA
+GPT-4_2404.13985_StrategyQA_Dev_0_F1_7	Multi-hop QA
+GPT-4_2404.13985_HotPotQA_Dev_0_F1_7	Multi-hop QA
+GPT-4_2404.13985_WIKIHOP_Dev_0_F1_7	Multi-hop QA
+GPT-4_2404.16294_MedSecId Corpus_xx_xx_Accuracy_5	Context-aware QA
+GPT-4_2404.16294_i2b2 2010_xx_xx_Accuracy_6	Context-aware QA
+GPT-4_2405.02079_MedClaim_xx_xx_Accuracy_2	Other
+GPT-4_2405.02517_BrainTeaser_Base_xx_Accuracy_1	Logical reasoning
+GPT-4_2405.02517_BrainTeaser_SR_xx_Accuracy_1	Logical reasoning
+GPT-4_2405.02517_BrainTeaser_CR_xx_Accuracy_1	Logical reasoning
+GPT-4_2405.02517_BrainTeaser_Base&SR_xx_Accuracy_1	Logical reasoning
+GPT-4_2405.02517_BrainTeaser_Adversarial_xx_Accuracy_1	Logical reasoning
+GPT-4_2405.02517_BrainTeaser_Overall_xx_Accuracy_1	Logical reasoning
+GPT-4_2405.02957_Respiratory Disease Dataset_xx_xx_Accuracy_2	Other
+GPT-4_2405.11040_RAPHEX Therapy_Radiation Safety_5_Accuracy_1	Encyclopedic knowledge
+GPT-4_2405.12933_Measuring Multitask Language Understanding (MMLU)_Moral Scenarios_xx_Accuracy_1	Mixed datasets
+GPT-4_2405.12933_Moral Stories_xx_xx_Accuracy_3	Generation
+GPT-4_2405.12933_ETHICS Commonsense Morality_xx_xx_Accuracy_5	Commonsense reasoning
+GPT-4_2405.14838_BIG-bench_4x4 multiplication_5_Accuracy_2	Math
+GPT-4_2405.14838_BIG-bench_5x5 multiplication_5_Accuracy_2	Math
+GPT-4_2405.14838_BIG-bench_7x7 multiplication_5_Accuracy_2	Math
+GPT-4_2405.14838_BIG-bench_9x9 multiplication_5_Accuracy_2	Math
+GPT-4_2405.14838_Grade School Math 8K (GSM8K)_xx_5_Accuracy_3	Math
+GPT-4_2410.02507_Chinese AI and Law Challenge 2018_confusing charge prediction_0_Accuracy_1	Text classification
+GPT-4_2410.02507_Chinese Judgment Online_confusing charge prediction_0_Accuracy_1	Text classification
+GPT-4_2410.02507_Chinese AI and Law Challenge Innocent_confusing charge prediction_0_Accuracy_1	Logical reasoning
+GPT-4_2410.02507_Chinese AI and Law Challenge 2018_confusing charge prediction_2_Accuracy_1	Text classification
+GPT-4_2410.02507_Chinese Judgment Online_confusing charge prediction_2_Accuracy_1	Text classification
+GPT-4_2410.02507_Chinese AI and Law Challenge Innocent_confusing charge prediction_2_Accuracy_1	Logical reasoning
+GPT-4_2410.02959_Coal Mining Question Answering (QA)_xx_xx_Accuracy_1	Encyclopedic knowledge
+GPT-4_2410.03122_MQuAKE_MQuAKE-cf_5_Accuracy_11	Multi-hop QA
+GPT-4_2411.17993_QA2_Mostly Wikipedia_0_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_BanditQA_Wikipedia_0_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_BBC_News_0_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_SQuADv2_Wikipedia_0_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_QA2_Mostly Wikipedia_xx_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_BanditQA_Wikipedia_xx_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_BBC_News_xx_Accuracy_3	Context-aware QA
+GPT-4_2411.17993_SQuADv2_Wikipedia_xx_Accuracy_3	Context-aware QA
+GPT-4_2410.08068_Single Eq_xx_xx_Accuracy_2	Math
+GPT-4_2410.08068_Math23k_xx_xx_Accuracy_2	Math
+GPT-4_2410.08068_MathMC_xx_xx_Accuracy_2	Math
+GPT-4_2410.08068_MathToF_xx_xx_Accuracy_2	Math
+GPT-4_2410.08436_ProntoQA_xx_xx_Recall_17	Context-aware QA
+GPT-4_2410.13029_Unanswerable Word Math Problem (UWMP)_xx_xx_Accuracy_1	Math
+GPT-4_2410.13343_Multi-Genre Natural Language Inference (MultiNLI)_Standard_0_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Lexical Overlap E_0_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Lexical Overlap ¬E_0_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Subsequence E_0_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Constituent E_0_Accuracy_2	Entailment
+GPT-4_2410.13343_Multi-Genre Natural Language Inference (MultiNLI)_Standard_3_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Lexical Overlap E_3_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Lexical Overlap ¬E_3_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Subsequence E_3_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Constituent E_3_Accuracy_2	Entailment
+GPT-4_2410.13343_Heuristic Analysis for NLI Systems (HANS)_Constituent ¬E_3_Accuracy_2	Entailment
+GPT-4_2412.14304_Multi-OphthaLingua_EN_xx_Accuracy_3	Encyclopedic knowledge
+GPT-4_2412.14304_Multi-OphthaLingua_ES_xx_Accuracy_3	Encyclopedic knowledge
+GPT-4_2412.14304_Multi-OphthaLingua_PT_xx_Accuracy_3	Encyclopedic knowledge
+GPT-4_2412.14304_Multi-OphthaLingua_FIL_xx_Accuracy_3	Encyclopedic knowledge
+GPT-4_2412.14304_Multi-OphthaLingua_ZH_xx_Accuracy_3	Encyclopedic knowledge
+GPT-4_2412.14304_Multi-OphthaLingua_HIN_xx_Accuracy_3	Context-aware QA
+GPT-4_2412.14304_Multi-OphthaLingua_FR_xx_Accuracy_3	Text classification
+GPT-4_2412.16953_ProntoQA_xx_xx_Accuracy_1	Context-aware QA
+GPT-4_2412.16953_ProofWriter_xx_xx_Accuracy_1	Logical reasoning
+GPT-4_2412.18697_Prison Term Prediction_xx_xx_Accuracy_1	Other
+GPT-4_2411.06018_Transient Electromagnetic Event_Simple Deterministic Reasoning_0_Accuracy_3	Spatial and temporal reasoning
+GPT-4_2411.06018_Electromyogram_Complex Deterministic Reasoning_0_Accuracy_3	Spatial and temporal reasoning
+GPT-4_2411.06018_Computer Type Usage_Probabilistic Reasoning_0_Accuracy_3	Logical reasoning
+GPT-4_2411.11027_Traditional Chinese Medicine Syndrome Differentiation_TCMSD_xx_Accuracy_3	Text classification
+GPT-4_2411.11027_Traditional Chinese Medicine Syndrome Differentiation_TCMSD-BC_xx_Accuracy_3	Text classification
+GPT-4_2411.11027_Traditional Chinese Medicine Disease Diagnosis_TCMDD_xx_Accuracy_3	Text classification
+GPT-4_2411.11027_Traditional Chinese Medicine Disease Diagnosis_TCMDD-BC_xx_Accuracy_3	Text classification
+GPT-4_2411.14479_Alpaca_xx_xx_BLEU_2	Generation
+GPT-4_2411.14479_Dolly_xx_xx_BLEU_2	Generation
+GPT-4_2412.11691_German_STA_xx_Accuracy_7	Generation
+GPT-4_2412.12164_Fakeddit_xx_xx_Accuracy_2	Text classification
+GPT-4_2412.12164_Fakeddit_Fake News_xx_Precision_2	Text classification
+GPT-4_2412.12164_Fakeddit_Fake News_xx_Recall_2	Text classification
+GPT-4_2412.12164_Fakeddit_Fake News_xx_F1_2	Text classification
+GPT-4_2412.12164_Fakeddit_Real News_xx_Precision_2	Text classification
+GPT-4_2412.12164_Fakeddit_Real News_xx_Recall_2	Text classification
+GPT-4_2412.12164_Fakeddit_Real News_xx_F1_2	Text classification
+GPT-4_2410.15050_Argotario_Zero-shot Multi-round_0_F1_21	Logical reasoning
+GPT-4_2410.15050_Argotario_Zero-shot Multi-round_0_Accuracy_21	Logical reasoning
+GPT-4_2410.15050_Mafalda_Zero-shot Multi-round_0_F1_25	Logical reasoning
+GPT-4_2410.15050_Mafalda_Zero-shot Multi-round_0_Accuracy_25	Text classification
+GPT-4_2410.15050_Reddit_Zero-shot Multi-round_0_F1_26	Text classification
+GPT-4_2410.15050_Reddit_Zero-shot Multi-round_0_Accuracy_26	Text classification
+GPT-4_2410.15050_Covid-19 Fallacy Dataset_Zero-shot Multi-round_0_F1_27	Text classification
+GPT-4_2410.15050_Covid-19 Fallacy Dataset_Zero-shot Multi-round_0_Accuracy_27	Text classification
+GPT-4_2410.15116_Science and Technology_xx_xx_F1_21	Text classification
+GPT-4_2410.15116_Science and Technology_xx_xx_Precision_21	Encyclopedic knowledge
+GPT-4_2410.15116_Science and Technology_xx_xx_Recall_21	Text classification
+GPT-4_2408.06874_manually collected dataset_student interactions from various online learning platforms_xx_Accuracy_1	Text classification
+GPT-4_2408.06874_manually collected dataset comprising student interactions from various online learning platforms_xx_xx_Accuracy_2	Other
+GPT-4_2408.08435_AI2 Reasoning Challenge (ARC)_xx_xx_Accuracy_2	Commonsense reasoning
+GPT-4_2408.11841_Computer Science_2_0_Accuracy_6	Encyclopedic knowledge
+GPT-4_2408.11841_Data Science_2_0_Accuracy_6	Generation
+GPT-4_2408.11841_Online Life Sciences_1_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Life Sciences_2_0_Accuracy_6	Encyclopedic knowledge
+GPT-4_2408.11841_Online Life Sciences_3_0_Accuracy_6	Encyclopedic knowledge
+GPT-4_2408.11841_Online Life Sciences_5_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Life Sciences_6_0_Accuracy_6	Encyclopedic knowledge
+GPT-4_2408.11841_Online Physics_1_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_2_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_3_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_4_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_5_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_6_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_7_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_8_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_9_0_Accuracy_6	Math
+GPT-4_2408.11841_Online Physics_10_0_Accuracy_6	Math
+GPT-4_2408.11841_Physics_3_0_Accuracy_6	Math
+GPT-4_2408.11841_Physics_4_0_Accuracy_6	Math
+GPT-4_2408.11841_EPFL STEM Assessment Dataset_MCQ_0_Accuracy_10	Math
+GPT-4_2408.11841_EPFL STEM Assessment Dataset_Open Answer_0_Accuracy_10	Math
+GPT-4_2408.13654_CLUTRR_xx_xx_Accuracy_1	Commonsense reasoning
+GPT-4_2408.13654_ProofWriter_xx_xx_Accuracy_1	Logical reasoning
+GPT-4_2408.13654_AR-LSAT_xx_xx_Accuracy_1	Logical reasoning
+GPT-4_2408.13654_Boxes_xx_xx_Accuracy_1	Symbolic and algorithmic
+GPT-4_2408.13654_CLUTRR_xx_1_Accuracy_6	Commonsense reasoning
+GPT-4_2408.13654_ProofWriter_xx_1_Accuracy_6	Logical reasoning
+GPT-4_2408.13654_AR-LSAT_xx_1_Accuracy_6	Logical reasoning
+GPT-4_2408.13654_Boxes_xx_1_Accuracy_6	Symbolic and algorithmic
+GPT-4_2408.13654_CLUTRR_xx_2_Accuracy_6	Commonsense reasoning
+GPT-4_2408.13654_ProofWriter_xx_3_Accuracy_6	Logical reasoning
+GPT-4_2408.13654_AR-LSAT_xx_2_Accuracy_6	Logical reasoning
+GPT-4_2408.13654_Boxes_xx_3_Accuracy_6	Symbolic and algorithmic
+GPT-4_2408.13940_MathQA_Math_xx_Accuracy_1	Math
+GPT-4_2408.13940_Overall_Overall_xx_Accuracy_1	Context-aware QA
+GPT-4_2409.05286_HiTab_Test_0_Accuracy_3	Context-aware QA
+GPT-4_2409.13729_MathVista_testmini_2_Accuracy_15	Math
+GPT-4_2409.15188_PALLM_Understanding_xx_Accuracy_2	Context-aware QA
+GPT-4_2409.15188_PALLM_Empathy_xx_Accuracy_2	Text classification
+GPT-4_2401.02009_Grade School Math 8K (GSM8K)_xx_xx_Accuracy_6	Math
+GPT-4_2401.02009_SVAMP_xx_xx_Accuracy_6	Math
+GPT-4_2401.08743_MMToM-QA_Belief Inference 1.1_0_Accuracy_4	Commonsense reasoning
+GPT-4_2401.08743_MMToM-QA_Belief Inference 1.2_0_Accuracy_4	Commonsense reasoning
+GPT-4_2401.08743_MMToM-QA_Belief Inference 1.3_0_Accuracy_4	Spatial and temporal reasoning
+GPT-4_2401.08743_MMToM-QA_Belief Inference All_0_Accuracy_4	Spatial and temporal reasoning
+GPT-4_2401.08743_MMToM-QA_Goal Inference 2.1_0_Accuracy_4	Spatial and temporal reasoning
+GPT-4_2401.08743_MMToM-QA_Goal Inference 2.2_0_Accuracy_4	Commonsense reasoning
+GPT-4_2401.08743_MMToM-QA_Goal Inference 2.3_0_Accuracy_4	Spatial and temporal reasoning
+GPT-4_2401.08743_MMToM-QA_Goal Inference 2.4_0_Accuracy_4	Spatial and temporal reasoning
+GPT-4_2401.08743_MMToM-QA_Goal Inference All_0_Accuracy_4	Commonsense reasoning
+GPT-4_2401.08743_MMToM-QA_All_0_Accuracy_4	Commonsense reasoning
+GPT-4_2401.10480_Last Letter Concatenation_xx_xx_Accuracy_1	Symbolic and algorithmic
+GPT-4_2401.11725_ChemLLMBench_BACE_0_Accuracy_4	Encyclopedic knowledge
+GPT-4_2401.11725_ChemLLMBench_BBBP_0_Accuracy_4	Other
+GPT-4_2401.11725_ChemLLMBench_Tox21_0_Accuracy_4	Other
+GPT-4_2401.11725_WikiTableQuestions_TableQA_0_F1_6	Context-aware QA
+GPT-4_2401.11725_WikiTableQuestions_TableQA_0_Exact Match_6	Context-aware QA
+GPT-4_2401.11725_TabFact_Fact Verification_0_Accuracy_6	Context-aware QA
+GPT-4_2401.11725_P-Stance_xx_0_Accuracy_7	Text classification
+GPT-4_2401.11725_P-Stance_xx_0_F1_7	Text classification
+GPT-4_2401.11725_Tweet Sentiment Extraction_xx_0_Accuracy_7	Text classification
+GPT-4_2402.05359_HaluEval_Summary_xx_F1_1	Context-aware QA
+GPT-4_2402.05359_HaluEval_Summary_xx_Accuracy_1	Text classification
+GPT-4_2402.05359_HaluEval_Summary_xx_Precision_1	Generation
+GPT-4_2402.05359_HaluEval_Summary_xx_Recall_1	Text classification
+GPT-4_2402.05359_SciFact_xx_xx_F1_2	Entailment
+GPT-4_2402.05359_SciFact_xx_xx_Precision_2	Entailment
+GPT-4_2402.05359_SciFact_xx_xx_Recall_2	Entailment
+GPT-4_2402.09911_Nature Questions_xx_xx_Rouge_2	Context-aware QA
+GPT-4_2402.10400_LegalBench_Aggregated across all rules_1_Accuracy_1	Encyclopedic knowledge
+GPT-4_2402.10735_Wikipedia-based dataset_Abductive_0_Accuracy_6	Logical reasoning
+GPT-4_2402.10735_PHEME-based dataset_Deductive_0_Accuracy_6	Logical reasoning
+GPT-4_2402.10735_PHEME-based dataset_Abductive_0_Accuracy_6	Entailment
+GPT-4_2402.11194_FinQA_xx_xx_Accuracy_2	Math
+GPT-4_2402.11194_ConvFinQA_xx_xx_Accuracy_2	Context-aware QA
+GPT-4_2402.11194_Multihiertt_xx_xx_Accuracy_2	Text classification
+GPT-4_2402.11943_Twitter_Overall_xx_Accuracy_1	Text classification
+GPT-4_2402.11943_Twitter_Rumor_xx_Precision_1	Text classification
+GPT-4_2402.11943_Twitter_Rumor_xx_Recall_1	Text classification
+GPT-4_2402.11943_Twitter_Rumor_xx_F1_1	Text classification
+GPT-4_2402.11943_Twitter_Non-Rumor_xx_Precision_1	Text classification
+GPT-4_2402.11943_Twitter_Non-Rumor_xx_Recall_1	Text classification
+GPT-4_2402.11943_Twitter_Non-Rumor_xx_F1_1	Text classification
+GPT-4_2402.11943_Fakeddit_Overall_xx_Accuracy_1	Text classification
+GPT-4_2402.11943_Fakeddit_Rumor_xx_Precision_1	Text classification
+GPT-4_2402.11943_Fakeddit_Rumor_xx_Recall_1	Text classification
+GPT-4_2402.11943_Fakeddit_Rumor_xx_F1_1	Text classification
+GPT-4_2402.11943_Fakeddit_Non-Rumor_xx_Precision_1	Text classification
+GPT-4_2402.11943_Fakeddit_Non-Rumor_xx_Recall_1	Text classification
+GPT-4_2402.11943_Fakeddit_Non-Rumor_xx_F1_1	Text classification
+GPT-4_2402.12424_ToTTo_Column-Color_xx_Rouge_13	Generation
+GPT-4_2402.12424_ToTTo_Row-Color_xx_Rouge_13	Generation
+GPT-4_2402.13758_AGGREFACT Benchmark_Overall_0_Accuracy_3	Entailment
+GPT-4_2402.13758_AGGREFACT Benchmark_Overall_xx_Accuracy_3	Entailment
+GPT-4_2402.15862_SportQA_Level-1_5_Accuracy_2	Context-aware QA
+GPT-4_2402.15862_SportQA_level-2_5_Accuracy_2	Multi-hop QA
+GPT-4_2402.15862_SportQA_level-3 Easy Single-hop_5_Accuracy_2	Context-aware QA
+GPT-4_2402.15862_SportQA_level-3 Hard Single-hop_5_Accuracy_2	Context-aware QA
+GPT-4_2402.15862_SportQA_level-3 Easy Multi-hop_5_Accuracy_2	Multi-hop QA
+GPT-4_2402.15862_SportQA_level-3 Hard Multi-hop_5_Accuracy_2	Multi-hop QA
+GPT-4_2402.15862_SportQA_Water Polo_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Baseball_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Rugby or American Football_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Athletics_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Cycling_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Table Tennis_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Badminton_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Football (Soccer)_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Sailing_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Ice Hockey_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Diving_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Tennis_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Handball_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Weightlifting_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Equestrian_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Surfing_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Hockey_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Judo_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Sport Climbing_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Volleyball_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Gymnastics_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Modern Pentathlon_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Taekwondo_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Archery_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Canoeing_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Shooting_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Wrestling_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Boxing_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Triathlon_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Breaking_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Golf_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Basketball_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_Fencing_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Skateboarding_5_Accuracy_5	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_Swimming_5_Accuracy_5	Context-aware QA
+GPT-4_2402.15862_SportQA_American Football Easy Single-hop_5_Accuracy_6	Context-aware QA
+GPT-4_2402.15862_SportQA_American Football Hard Single-hop Tasks_5_Accuracy_6	Encyclopedic knowledge
+GPT-4_2402.15862_SportQA_American Football Easy Multi-hop Tasks_5_Accuracy_6	Multi-hop QA
+GPT-4_2402.15862_SportQA_American Football Multi-hop Tasks_5_Accuracy_6	Multi-hop QA
+GPT-4_2402.17226_Linguistic Rhetoric_Metaphor_0_Accuracy_3	Meta-linguistic
+GPT-4_2402.17226_Linguistic Rhetoric_SNARKS_0_Accuracy_3	Text classification
+GPT-4_2402.17226_Linguistic Rhetoric_Humor_0_Accuracy_3	Text classification
+GPT-4_2402.17226_disambiguation_qa_Pronoun_0_Accuracy_3	Context-aware QA
+GPT-4_2402.17226_disambiguation_qa_Anach._0_Accuracy_3	Spatial and temporal reasoning
+GPT-4_2402.17226_Stance Detection_SEQ_0_Accuracy_3	Text classification
+GPT-4_2402.17226_Stance Detection_SemEval_0_F1_3	Text classification
+GPT-4_2402.17226_Cultural-Related_SocNorm_0_F1_3	Entailment
+GPT-4_2402.17226_Cultural-Related_e-SocNorm_0_F1_3	Commonsense reasoning
+GPT-4_2402.17226_Cultural-Related_CALI_0_Accuracy_3	Entailment
+GPT-4_2402.17226_Traditional NLI_Entail._0_Accuracy_3	Entailment
+GPT-4_2402.18252_StrategyQA_Logical Reasoning_0_Accuracy_1	Logical reasoning
+GPT-4_2402.18252_FOLIO_Logical Reasoning_0_Accuracy_1	Logical reasoning
+GPT-4_2402.18252_Measuring Multitask Language Understanding (MMLU)_Computer Science_0_Accuracy_1	Mixed datasets
+GPT-4_2402.18252_Measuring Multitask Language Understanding (MMLU)_Math_0_Accuracy_1	Math
+GPT-4_2402.18252_Measuring Multitask Language Understanding (MMLU)_Electrical Engineering_0_Accuracy_1	Encyclopedic knowledge
+GPT-4_2403.02615_Multilingual Compositional Relation benchmark_AVG_0_Accuracy_5	Logical reasoning
+GPT-4_2403.02615_Multilingual Compositional Relation benchmark_EN_0_Accuracy_5	Logical reasoning
+GPT-4_2403.02615_Multilingual Compositional Relation benchmark_FR_0_Accuracy_5	Meta-linguistic
+GPT-4_2403.02615_Multilingual Compositional Relation benchmark_JA_0_Accuracy_5	Generation
+GPT-4_2403.02615_Multilingual Compositional Relation benchmark_KO_0_Accuracy_5	Logical reasoning
+GPT-4_2403.02615_Multilingual Compositional Relation benchmark_ZH_0_Accuracy_5	Meta-linguistic
+GPT-4_2403.06294_MedQA_USMLE_0_Accuracy_1	Encyclopedic knowledge
+GPT-4_2403.06294_PubmedQA_xx_0_Accuracy_1	Context-aware QA
+GPT-4_2403.06609_CMExam_Test_0_Accuracy_5	Context-aware QA
+GPT-4_2403.06609_CMExam_Test_Few-shot_Accuracy_5	Context-aware QA
+GPT-4_2403.08211_Single Eq_Arithmetic_0_Accuracy_1	Math
+GPT-4_2403.08211_AddSub_Arithmetic_0_Accuracy_1	Math
+GPT-4_2403.08211_Multi-Arith_Arithmetic_0_Accuracy_1	Math
+GPT-4_2403.08211_Grade School Math 8K (GSM8K)_Arithmetic_0_Accuracy_1	Math
+GPT-4_2403.08211_AQuA_Arithmetic_0_Accuracy_1	Math
+GPT-4_2403.08211_SVAMP_Arithmetic_0_Accuracy_1	Math
+GPT-4_2403.08211_Date Understanding_Other Reasoning Tasks_0_Accuracy_1	Logical reasoning
+GPT-4_2403.08211_Tracking Shuffled Objects_Other Reasoning Tasks_0_Accuracy_1	Symbolic and algorithmic
+GPT-4_2403.08211_Last Letter Concatenation_Symbolic Reasoning_0_Accuracy_1	Symbolic and algorithmic
+GPT-4_2403.08211_Coin Flip_Symbolic Reasoning_0_Accuracy_1	Symbolic and algorithmic
+GPT-4_2403.08211_Multi-Arith_xx_xx_Accuracy_7	Math
+GPT-4_2403.08211_Grade School Math 8K (GSM8K)_xx_xx_Accuracy_7	Math
+GPT-4_2403.08211_StrategyQA_xx_xx_Accuracy_7	Multi-hop QA
+GPT-4_2403.08211_AQuA-RAT_xx_xx_Accuracy_7	Math
+GPT-4_2403.08211_SVAMP_xx_xx_Accuracy_7	Math
+GPT-4_2403.09017_AraTrust_Trustfulness_0_Accuracy_1	Entailment
+GPT-4_2403.09017_AraTrust_Ethics and Morality_0_Accuracy_1	Commonsense reasoning
+GPT-4_2403.09017_AraTrust_Physical Health_0_Accuracy_1	Text classification
+GPT-4_2403.09017_AraTrust_Mental Health_0_Accuracy_1	Text classification
+GPT-4_2403.09017_AraTrust_Unfairness_0_Accuracy_1	Text classification
+GPT-4_2403.09017_AraTrust_Illegal Activities_0_Accuracy_1	Text classification
+GPT-4_2403.09017_AraTrust_Offensiveness_0_Accuracy_1	Text classification
+GPT-4_2403.09017_AraTrust_Privacy_0_Accuracy_1	Text classification
+GPT-4_2403.09017_AraTrust_Average_0_Accuracy_1	Mixed datasets
+GPT-4_2405.18357_ProntoQA_symbolic reasoning with First-Order Logical representation_xx_Accuracy_1	Symbolic and algorithmic
+GPT-4_2405.18357_ProofWriter_symbolic reasoning with First-Order Logical representation_xx_Accuracy_1	Symbolic and algorithmic
+GPT-4_2405.18357_FOLIO_symbolic reasoning with First-Order Logical representation_xx_Accuracy_1	Symbolic and algorithmic
+GPT-4_2406.01126_TCM Licensing Exam (TCMLE)_A1/A2 questions_xx_Accuracy_7	Encyclopedic knowledge
+GPT-4_2406.01238_Complex Web Questions_xx_xx_Accuracy_2	Multi-hop QA
+GPT-4_2406.01238_WebQuestionSP_xx_xx_Accuracy_2	Context-aware QA
+GPT-4_2406.05055_GSM8k_xx_xx_Accuracy_2	Math
+GPT-4_2406.12386_IPEval_xx_5_Accuracy_2	Encyclopedic knowledge
+GPT-4_2406.12386_IPEval_Chinese_5_Accuracy_9	Encyclopedic knowledge
+GPT-4_2406.12386_IPEval_English_5_Accuracy_9	Encyclopedic knowledge
+GPT-4_2406.12386_IPEval_Single_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2406.12386_IPEval_Multiple_5_Accuracy_10	Encyclopedic knowledge
+GPT-4_2406.14877_SportQA_Level-2_0_Accuracy_2	Context-aware QA
+GPT-4_2406.14877_SportQA_Level-2_5_Accuracy_2	Context-aware QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Easy Single-hop_0_Accuracy_3	Context-aware QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Hard Single-hop_0_Accuracy_3	Context-aware QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Easy Multi-hop_0_Accuracy_3	Multi-hop QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Hard Multi-hop_0_Accuracy_3	Multi-hop QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Easy Single-hop_5_Accuracy_3	Context-aware QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Hard Single-hop_5_Accuracy_3	Context-aware QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Easy Multi-hop_5_Accuracy_3	Multi-hop QA
+GPT-4_2406.14877_SportQA_Advanced Scenario Analysis - Hard Multi-hop_5_Accuracy_3	Multi-hop QA
+Claude3_Opus_2409.13711_WebQuest_SingleScreen QA_0_Accuracy_1	Context-aware QA
+Claude3_Opus_2409.13711_WebQuest_MultiScreen QA_0_Accuracy_1	Multi-hop QA
+Claude3_Opus_2409.13711_WebQuest_Trace QA_0_Accuracy_1	Context-aware QA
+Claude3_Opus_2406.04127_Massive Multitask Language Understanding - Redux_xx_0_Recall_2	Mixed datasets
+Claude3_Opus_2406.04127_Massive Multitask Language Understanding - Redux_xx_0_F1_2	Mixed datasets
+Claude3_Opus_2406.04127_Massive Multitask Language Understanding - Redux_xx_xx_Recall_2	Mixed datasets
+Claude3_Opus_2406.04127_Massive Multitask Language Understanding - Redux_xx_xx_F1_2	Mixed datasets
+Claude3_Opus_2406.04127_Measuring Multitask Language Understanding (MMLU)_Professional Law_xx_F1_5	Encyclopedic knowledge
+Claude3_Opus_2406.14877_BIG-bench_Sports Understanding_0_Accuracy_2	Commonsense reasoning
+Claude3_Opus_2406.14877_SportQA_Level-1_0_Accuracy_2	Context-aware QA
+Claude3_Opus_2406.14877_BIG-bench_Sports Understanding_5_Accuracy_2	Commonsense reasoning
+Claude3_Opus_2406.14877_SportQA_Level-1_5_Accuracy_2	Context-aware QA
+Claude3_Opus_2406.14877_SportQA_Easy Single-hop_0_Accuracy_3	Context-aware QA
+Claude3_Opus_2406.14877_SportQA_Hard Single-hop_0_Accuracy_3	Context-aware QA
+Claude3_Opus_2406.14877_SportQA_Easy Multi-hop_0_Accuracy_3	Multi-hop QA
+Claude3_Opus_2406.14877_SportQA_Hard Multi-hop_0_Accuracy_3	Multi-hop QA
+Claude3_Opus_2406.14877_SportQA_Easy Single-hop_5_Accuracy_3	Context-aware QA
+Claude3_Opus_2406.14877_SportQA_Hard Single-hop_5_Accuracy_3	Context-aware QA
+Claude3_Opus_2406.14877_SportQA_Easy Multi-hop_5_Accuracy_3	Multi-hop QA
+Claude3_Opus_2406.14877_SportQA_Hard Multi-hop_5_Accuracy_3	Multi-hop QA
+Claude3_Opus_2403.20180_Taiwanese Mandarin Language Understanding (TMLU)_Social Science_5_Accuracy_3	Text classification
+Claude3_Opus_2403.20180_Taiwanese Mandarin Language Understanding (TMLU)_STEM_5_Accuracy_3	Context-aware QA
+Claude3_Opus_2403.20180_Taiwanese Mandarin Language Understanding (TMLU)_Humanities_5_Accuracy_3	Text classification
+Claude3_Opus_2403.20180_Taiwanese Mandarin Language Understanding (TMLU)_Taiwan Specific_5_Accuracy_3	Context-aware QA
+Claude3_Opus_2403.20180_Taiwanese Mandarin Language Understanding (TMLU)_Average_5_Accuracy_3	Generation
+Claude3_Opus_2403.20180_Taiwanese Mandarin Language Understanding (TMLU)_Avg._5_Accuracy_16	Logical reasoning
