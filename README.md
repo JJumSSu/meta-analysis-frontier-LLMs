@@ -1,8 +1,9 @@
-# A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs
+# A Large-Scale, Evolving Literature Analysis of Frontier LLMs
 
 🤗[Data](https://huggingface.co/datasets/jungsoopark/LLMEvalDB) |  📄[Paper](https://arxiv.org/abs/2502.18791) | 
 
-This repository contains the code for (1) extracting experimental data related to target LLMs from arXiv sources (constructing LLMEvalDB), and (2) analyzing the extracted data, LLMEvalDB, as presented in our paper [Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs
+This repository contains the code for (1) extracting experimental data related to target LLMs from arXiv sources (constructing LLMEvalDB), and (2) analyzing the extracted data, LLMEvalDB, as presented in our paper [Can LLMs Help Uncover Insights about LLMs? 
+A Large-Scale, Evolving Literature Analysis of Frontier LLMs
 ](https://arxiv.org/abs/2502.18791).
 
 
