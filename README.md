@@ -1,16 +1,18 @@
 # A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs
 
-🤗[Data](https://huggingface.co/datasets/jungsoopark/LLMs-Performance-Data) |  📄[Paper](https://arxiv.org/abs/2502.18791) | 
+🤗[Data](https://huggingface.co/datasets/jungsoopark/LLMEvalDB) |  📄[Paper](https://arxiv.org/abs/2502.18791) | 
 
-This repository contains the code for (1) extracting experimental data related to target LLMs from arXiv sources, and (2) analyzing the extracted data, as presented in our paper [Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs
+This repository contains the code for (1) extracting experimental data related to target LLMs from arXiv sources (constructing LLMEvalDB), and (2) analyzing the extracted data, LLMEvalDB, as presented in our paper [Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs
 ](https://arxiv.org/abs/2502.18791).
 
 
 ## Updates
 
+**[04/09/2025]** We have open-sourced our automated analysis pipeline based on our dataset.
+
 **[04/08/2025]** We have open-sourced our pipeline for extracting data from arXiv sources.
 
-**[02/26/2025]** We have uploaded our v1.0 dataset to [huggingface](https://huggingface.co/datasets/jungsoopark/LLMs-Performance-Data).
+**[02/26/2025]** We have uploaded our v1.0 LLMEvalDB to [huggingface](https://huggingface.co/datasets/jungsoopark/LLMEvalDB).
 
 **[02/26/2025]** We have uploaded our preprint to [arXiv](https://arxiv.org/abs/2502.18791).
 
@@ -27,8 +29,7 @@ To run the full pipeline or individual components, please refer to `READEME.md` 
 
 ## Analysis
 
-Code will be available soon.
-
+To run the analysis based on our dataset LLMEvalDB, please refer to `READEME.md` from the `src/analysis` directory.
 
 ## Citation
 

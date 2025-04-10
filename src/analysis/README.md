@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section provides the source code for conducting literature analysis based on our dataset: [LLMEvalDB](https://huggingface.co/datasets/jungsoopark/LLMs-Performance-Data).
+This section provides the source code for conducting literature analysis based on our dataset: [LLMEvalDB](https://huggingface.co/datasets/jungsoopark/LLMEvalDB).
 
 ## Analyses
 
