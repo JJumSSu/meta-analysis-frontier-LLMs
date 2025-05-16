@@ -1,4 +1,4 @@
-# A Large-Scale, Evolving Literature Analysis of Frontier LLMs
+# A Large-Scale, Automated Literature Analysis of Frontier LLMs (ACL 2025 Main)
 
 🤗[Data](https://huggingface.co/datasets/jungsoopark/LLMEvalDB) |  📄[Paper](https://arxiv.org/abs/2502.18791) | 
 
@@ -8,6 +8,8 @@ A Large-Scale, Evolving Literature Analysis of Frontier LLMs
 
 
 ## Updates
+
+**[05/15/2025]** Our paper was accepted to the ACL 2025 main conference.
 
 **[04/09/2025]** We have open-sourced our automated analysis pipeline based on our dataset.
 
