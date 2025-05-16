@@ -1,4 +1,4 @@
-# A Large-Scale Automated Literature Analysis of Frontier LLMs  $~~~~~~$  (ACL 2025 Main)
+# A Large-Scale Automated Literature Analysis of Frontier LLMs (ACL 2025 Main)
 
 🤗[Data](https://huggingface.co/datasets/jungsoopark/LLMEvalDB) |  📄[Paper](https://arxiv.org/abs/2502.18791) | 
 
