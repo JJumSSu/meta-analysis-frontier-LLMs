@@ -39,11 +39,15 @@ To run the analysis based on our dataset LLMEvalDB, please refer to `READEME.md`
 If you use our work and are inspired by our work, please cite our work:
 
 ```
-@article{park2025can,
-  title={Can LLMs Help Uncover Insights about LLMs? A Large-Scale, Evolving Literature Analysis of Frontier LLMs},
-  author={Park, Jungsoo and Kang, Junmo and Stanovsky, Gabriel and Ritter, Alan},
-  journal={arXiv preprint arXiv:2502.18791},
-  year={2025}
+@inproceedings{park2025can,
+    title = "Can {LLM}s Help Uncover Insights about {LLM}s? A Large-Scale, Evolving Literature Analysis of Frontier {LLM}s",
+    author = "Park, Jungsoo  and
+      Kang, Junmo  and
+      Stanovsky, Gabriel  and
+      Ritter, Alan",
+    year = "2025",
+    booktitle = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.998/"
 }
 ```
 
