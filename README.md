@@ -9,7 +9,7 @@ A Large-Scale, Evolving Literature Analysis of Frontier LLMs
 
 ## Updates
 
-**[11/04/2025]** We’ve updated **LLMEvalDB** to include **2025 arXiv data**, along with previously missing papers from the **2023–2024** preprocessing stage. The database now contains **89,000 structured entries**.
+**[11/04/2025]** We’ve updated **LLMEvalDB** to include **2025 arXiv data**. The database now contains **82,000 structured entries**. Chcekout the latest experimental DB from [here](https://huggingface.co/datasets/jungsoopark/LLMEvalDB)
 
 **[05/15/2025]** Our paper was accepted to the ACL 2025 main conference.
 
